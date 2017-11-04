@@ -51,6 +51,8 @@ included in the src/framework folder):
 
 ## References
 [1] Søren Dahlgaard, Mathias Bæk Tejs Knudsen, Eva Rotenberg, Mikkel Thorup: Hashing for Statistics over K-Partitions. FOCS 2015: 1292-1310
+
 [2] Mihai Patrascu, Mikkel Thorup: The Power of Simple Tabulation Hashing. J. ACM 59(3): 14:1-14:50 (2012)
+
 [3] Mihai Patrascu, Mikkel Thorup: Twisted Tabulation Hashing. SODA 2013: 209-228
 
