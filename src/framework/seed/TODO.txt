@@ -1,0 +1,2 @@
+If you have a file with random bytes from e.g. random.org, place it in this
+folder and name it "bytes"
