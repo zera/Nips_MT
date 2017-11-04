@@ -20,6 +20,9 @@ The code is split into several parts all contained in the src folder:
 Before you try to run the code plese read the sections below on randomness and
 data.
 
+Also, for the code to work, you need to create a folder named "output" in the
+src/ and the src/plotGenerator/ folders.
+
 ## Randomness
 The code provided in this repo uses C++11 random generation as standard for
 portability. *This is not intended!!* We strongly recommend that any user
